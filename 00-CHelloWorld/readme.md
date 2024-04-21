@@ -2,4 +2,4 @@
 
 ## Alumno: Marcelo Buergo
 
-Se usó el compilador *C18*.
+Se usó el compilador **C18**.
