@@ -1,5 +1,7 @@
 # 00-CHelloWorld
 
-## Alumno: Marcelo Buergo
+Compilador: GCC
 
-Se usó el compilador **C18**.
+Versión compilador: 15.1.1
+
+Versión de C: C23
